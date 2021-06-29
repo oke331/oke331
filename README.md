@@ -1,7 +1,7 @@
 # Hello World! 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oke331&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oke331&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oke331&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oke331&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oke331&theme=solarized)
+[![](https://raw.githubusercontent.com/oke331/oke331/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/oke331/oke331/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/oke331/oke331/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/oke331/oke331/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/oke331/oke331/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
